@@ -191,6 +191,11 @@ NordVPN的价格虽然略高于一些其他VPN服务，但其提供的高质量�
 
 如果你所在地区无法访问Google Play商店，可以直接从VPN服务商的官方网站下载APK文件并进行手动安装。
 
+* ExpressVPN安卓APP下载地址：https://www.expressvpn.com/vpn-download/vpn-android
+* PureVPN安卓APP下载地址：https://www.purevpn.com/download/android-vpn
+* Surfshark安卓APP下载地址：https://surfshark.com/zh/download/android
+* NordVPN安卓APP下载地址：https://nordvpn.com/zh/download/android/
+
 ### 3，注册和登录
 
 安装完成后，打开VPN应用，通常会要求你注册一个新账户。注册时，你需要提供电子邮件地址并设置一个安全的密码。如果你已经有账户，直接使用现有的账户信息登录即可。
