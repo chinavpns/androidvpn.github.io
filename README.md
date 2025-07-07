@@ -1,6 +1,6 @@
 # <p align="center">安卓翻墙教程：2025年最好用的安卓VPN推荐</p>
 
-<p align="center">最近更新于：2025年5月18日</p>
+<p align="center">最近更新于：2025年7月6日</p>
 
 ![安卓翻墙教程：最好用的安卓VPN推荐](https://raw.githubusercontent.com/chinavpns/androidvpn.github.io/main/image/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B-%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E5%AE%89%E5%8D%93VPN%E6%8E%A8%E8%8D%90.png)
 
@@ -484,3 +484,9 @@ VPN通过加密你的网络流量，防止ISP识别出你正在进行的流量�
 * <a href="https://github.com/chinavpns/hot-site">翻墙后看什么</a>：翻墙必看的国外社交、视频、音乐、新闻、游戏、学习、购物等网站推荐。
 
 * <a href="https://github.com/chinavpns/video-site">国外视频网站</a>：热门海外视频网站汇总，包括国外付费视频网站和受欢迎的免费视频网站。
+
+* <a href="https://github.com/chinavpns/overseas-live">国外直播平台</a>：详细盘点全球范围内最受欢迎的几大海外直播平台，并深入介绍它们各自的特色和优势。
+
+* <a href="https://github.com/chinavpns/torrent-site">BT种子网站</a>：除了推荐BT网站外，还会介绍几款好用的BT下载工具，帮助大家更好地下载BT种子资源。
+
+* <a href="https://github.com/chinavpns/movie-site">免费电影网站</a>：推荐最新海外免费看片网站，无广告、无需会员、速度快，支持中文字幕和高清播放。
