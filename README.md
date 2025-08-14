@@ -1,6 +1,6 @@
 # <p align="center">安卓翻墙教程：2025年最好用的安卓VPN推荐</p>
 
-<p align="center">最近更新于：2025年7月6日</p>
+<p align="center">最近更新于：2025年8月14日</p>
 
 ![安卓翻墙教程：最好用的安卓VPN推荐](https://raw.githubusercontent.com/chinavpns/androidvpn.github.io/main/image/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B-%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E5%AE%89%E5%8D%93VPN%E6%8E%A8%E8%8D%90.png)
 
